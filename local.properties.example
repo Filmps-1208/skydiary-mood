@@ -1,0 +1,5 @@
+# คัดลอกไฟล์นี้เป็น local.properties (ไว้ที่โฟลเดอร์เดียวกัน) แล้วใส่ค่าจริง
+# ขอ SUPABASE_PUBLISHABLE_KEY จากคนทำ backend (Supabase Dashboard > Project Settings > API Keys)
+# sdk.dir จะถูกสร้างให้อัตโนมัติเมื่อเปิดโปรเจกต์ใน Android Studio
+SUPABASE_URL=https://dvxrodmjjctboykjyojd.supabase.co
+SUPABASE_PUBLISHABLE_KEY=ใส่_publishable_key_ตรงนี้
